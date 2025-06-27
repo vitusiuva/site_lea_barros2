@@ -1,0 +1,980 @@
+
+@media only screen and (min-width:0px) and (max-width:767px) {
+    /* Home Page Start */
+    section {
+        padding: 50px 0px;
+    }
+    .container {
+        padding: 0px 15px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .d2c_card {
+        padding: 30px 20px;
+    }
+    .d2c_btn {
+        font-size: 16px;
+        padding: 8px 30px 9px;
+    }
+    .d2c_top_nav_wrapper {
+        overflow-x: hidden;
+    }
+    .d2c_top_nav_wrapper marquee {
+        display: none;
+    }
+    .navbar {
+        padding: 20px 0px;
+    }
+    .d2c_navbar .nav-link.active::before {
+        left: 2px;
+    }
+    .d2c_navbar .navbar-nav .nav-item {
+        margin: 3px 0px;
+    }
+    .d2c_navbar .d2c_social_icon_wrapper {
+        display: none;
+    }
+    .d2c_hero_wrapper .d2c_btn {
+        width: 100%;
+    }
+    .d2c_hero_wrapper h1::before {
+        display: none;
+    }
+    .d2c_hero_wrapper h1::after {
+        display: none;
+    }
+    .d2c_hero_wrapper p::after {
+        display: none;
+    }
+    .d2c_hero_wrapper {
+        background-image: none;
+        height: 100%;
+    }
+    .d2c_hero_wrapper .d2c_img_wrapper {
+        height: 500px;
+    }
+    .d2c_hero_wrapper h1 {
+        font-size: 33px;
+        margin-bottom: 22px;
+    }
+    .d2c_hero_wrapper h1 span {
+        height: 50px;
+    }
+    .d2c_arrow_btn {
+        left: -2px;
+    }
+    .d2c_about_wrapper {
+        background-image: none;
+        padding: 20px 0px 0px;
+    }
+    .d2c_about_left_wrapper::before {
+        display: none;
+    }
+    .d2c_about_left_wrapper::after {
+        display: none;
+    }
+    .d2c_about_wrapper .d2c_about_left_wrapper {
+        padding-right: 0px;
+    }
+    .d2c_about_left_wrapper .d2c_right_img {
+        display: none;
+    }
+    .d2c_about_left_wrapper .d2c_img_wrapper{
+        width: 100% !important;
+        height: auto !important;
+        margin-bottom: 50px;
+    }
+    .d2c_about_left_wrapper .d2c_img_wrapper {
+        width: 300px;
+        height: 420px;
+    }
+    .d2c_section_header h6 {
+        margin-bottom: 10px;
+    }
+    .d2c_section_header h2 {
+        font-size: 24px;
+    }
+    .d2c_about_right_wrapper .d2c_section_header {
+        margin-bottom: 13px;
+        padding-bottom: 9px;
+    }
+    .d2c_about_right_wrapper p {
+        margin-bottom: 16px;
+    }
+    .d2c_services_wrapper {
+        padding: 50px 0px 0px;
+    }
+    .d2c_services_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_card img {
+        margin-bottom: 24px;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_section_header {
+        margin-bottom: 19px;
+        padding-bottom: 15px;
+    }
+    .d2c_text {
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_section_header h6::after {
+        display: none;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_btn::before {
+        display: none;
+    }
+    .d2c_portfolio_wrapper .d2c_portfolio::before {
+        display: none;
+    }
+    .d2c_catchy_list li {
+        font-size: 14px;
+    }
+    .d2c_portfolio_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .img-comp-container {
+        height: 300px;
+    }
+    .img-comp-img img {
+        width: 336px;
+        height: 300px;
+    }
+    .d2c_team_wrapper  {
+        padding: 0px 0px;
+    }
+    .d2c_team_wrapper .d2c_section_header {
+        margin-bottom: 30px;
+    }
+    .d2c_team_wrapper .slick-prev {
+        top: -50px;
+        left: 90%;
+        display: none !important;
+    }
+    .d2c_team_wrapper .slick-next {
+        top: -50px;
+        display: none !important;
+    }
+    .d2c_team_wrapper .d2c_card_body {
+        padding: 0px 25px 25px 25px;
+    }
+    .d2c_testimonial_body::after {
+        display: none;
+    }
+    .d2c_testimonial_wrapper {
+        padding: 50px 0px 0px;
+    }
+    .d2c_testimonial_wrapper .d2c_section_header {
+        margin-bottom: 20px;
+    }
+    .d2c_testimonial_wrapper ul {
+        margin-bottom: 30px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_content {
+        margin-bottom: 30px;
+    }
+    .d2c_c2a_box::after {
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_card::before {
+        left: -115px;
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_card::after {
+        right: -115px;
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_content {
+        font-size: 19px;
+    }
+    .d2c_contact_left_wrapper {
+        width: 100%;
+    }
+    .d2c_contact_left h2 {
+        font-size: 24px;
+    }
+    .d2c_contact_summary_wrapper {
+        margin: 24px 0px;
+    }
+    .d2c_contact_left {
+        padding: 30px;
+        margin-bottom: 26px;
+    }
+    .d2c_contact_wrapper .d2c_section_header {
+        margin-bottom: 20px;
+    }
+    .d2c_contact_wrapper .form-label {
+        font-size: 18px
+    }
+    .d2c_contact_wrapper .d2c_btn {
+        width: 100%;
+    }
+    .d2c_contact_summary_wrapper li {
+        margin-bottom: 24px;
+    }
+    .d2c_contact_social_icon li a {
+        width: 40px;
+        height: 40px;
+    }
+    .d2c_contact_social_icon li a i {
+        font-size: 16px;
+    }
+    .d2c_blog_wrapper {
+        padding: 0px 0px;
+        background-image: none;
+    }
+    .d2c_blog_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_blog_card p {
+        margin-bottom: 22px;
+    }
+    .d2c_blog_card .d2c_date {
+        margin-bottom: 12px;
+    }
+    .d2c_blog_card h4 {
+        margin-bottom: 16px;
+    }
+    .d2c_c2a_box {
+        padding: 40px;
+    }
+    .d2c_footer_wrapper .d2c_overlay {
+        padding: 50px 0px 0px;
+    }
+    .d2c_footer_menu ul li {
+        margin-bottom: 10px;
+    }
+    .d2c_footer_info_menu li {
+        margin-bottom: 22px;
+    }
+    .d2c_footer_menu ul li a {
+        font-size: 15px;
+    }
+    .d2c_footer_info_menu li {
+        font-size: 15px;
+    }
+    .d2c_footer_header {
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+    }
+    .d2c_footer_info_menu li {
+        display: flex !important;
+    }
+    .d2c_hero_wrapper h1 span {
+        padding: 23px 8px 27px;
+    }
+    .video-container {
+        width: 100%;
+        height: 350px;
+    }
+    /* Home Page End */
+
+    /* About Page Start */
+    .breadcrumb-item {
+        font-size: 18px;
+    }
+    .d2c_banner_wrapper h1 {
+        font-size: 42px;
+    }
+    .d2c_facilities_wrapper .d2c_about_left_wrapper {
+        padding-left: 0px;
+    }
+    .d2c_choose_us_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_our_journey_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_our_journey_wrapper .nav {
+        margin-bottom: 50px;
+    }
+    .d2c_counter_wrapper {
+        margin-top: 0px;
+    }
+    .d2c_our_journey_wrapper .nav-item p {
+        display: none;
+    }
+    .d2c_our_journey_wrapper .nav {
+        margin-bottom: 30px;
+    }
+    .d2c_copy_right_wrapper {
+        margin-top: 30px;
+    }
+    /* About Page End */
+
+    /* Single Blog Page Start */
+    .d2c_single_blog_left .d2c_img_wrapper {
+        height: 300px;
+        margin-bottom: 30px;
+    }
+    .d2c_single_blog_left .d2c_disease_info {
+        margin-bottom: 30px;
+    }
+    .d2c_category_wrapper .d2c_btn {
+        font-size: 14px;
+        padding: 10px 14px 11px;
+    }
+    .d2c_single_blog_left .d2c_disease_info p {
+        font-size: 13px;
+    }
+    .d2c_support_wrapper {
+        padding: 40px 20px;
+    }
+    .d2c_support_wrapper h2 {
+        font-size: 26px;
+        margin-bottom: 28px;
+    }
+    .d2c_support_wrapper h4 {
+        font-size: 22px;
+    }
+    .d2c_support_wrapper hr {
+        margin: 0 auto 24px;
+    }
+    .d2c_support_wrapper h3 {
+        font-size: 25px;
+    }
+    .d2c_single_blog_card {
+        padding: 20px;
+    }
+    .d2c_single_blog_left h3 {
+        font-size: 24px;
+    }
+    .d2c_disease_info {
+        flex-direction: column;
+    }
+    .d2c_single_blog_left .d2c_disease_info p {
+        border: 0px;
+        margin-bottom: 10px;
+    }
+    .d2c_single_blog_left .d2c_doctor_details {
+        padding: 20px 15px;
+    }
+    /* Single Blog Page End */
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    /* Home Page Start */
+    section {
+        padding: 60px 0px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .d2c_card {
+        padding: 30px 20px;
+    }
+    .d2c_btn {
+        font-size: 16px;
+        padding: 9px 30px 10px;
+    }
+    .navbar {
+        padding: 20px 0px;
+    }
+    .d2c_navbar .nav-link.active::before {
+        left: 2px;
+    }
+    .d2c_navbar .navbar-nav .nav-item {
+        margin: 3px 0px;
+    }
+    .d2c_navbar .d2c_social_icon_wrapper {
+        display: none;
+    }
+    .d2c_hero_wrapper h1::before {
+        display: none;
+    }
+    .d2c_hero_wrapper {
+        background-image: url(../images/bg_left_wave_img.png);
+        height: 100%;
+    }
+    .d2c_hero_wrapper .d2c_img_wrapper {
+        height: 500px;
+    }
+    .d2c_hero_wrapper h1 {
+        font-size: 33px;
+        margin-bottom: 22px;
+    }
+    .d2c_hero_wrapper h1 span {
+        height: 50px;
+    }
+    .d2c_about_wrapper {
+        background-image: none;
+    }
+    .d2c_about_left_wrapper::before {
+        display: none;
+    }
+    .d2c_about_left_wrapper::after {
+        display: none;
+    }
+    .d2c_about_wrapper .d2c_about_left_wrapper {
+        padding-right: 12px;
+    }
+    .d2c_about_left_wrapper .d2c_right_img {
+        display: none;
+    }
+    .d2c_about_left_wrapper .d2c_img_wrapper{
+        width: 100% !important;
+        height: auto !important;
+    }
+    .d2c_about_left_wrapper .d2c_img_wrapper {
+        width: 300px;
+        height: 420px;
+    }
+    .d2c_section_header h6 {
+        margin-bottom: 10px;
+    }
+    .d2c_section_header h2 {
+        font-size: 28px;
+    }
+    .d2c_about_right_wrapper .d2c_section_header {
+        margin-bottom: 13px;
+        padding-bottom: 9px;
+    }
+    .d2c_about_right_wrapper p {
+        margin-bottom: 16px;
+    }
+    .d2c_services_wrapper {
+        padding: 0px 0px;
+    }
+    .d2c_services_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_card img {
+        margin-bottom: 24px;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_section_header {
+        margin-bottom: 19px;
+        padding-bottom: 15px;
+    }
+    .d2c_text {
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_section_header h6::after {
+        display: none;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_btn::before {
+        display: none;
+    }
+    .d2c_portfolio_wrapper .d2c_portfolio::before {
+        display: none;
+    }
+    .d2c_catchy_list li {
+        font-size: 14px;
+    }
+    .d2c_portfolio_wrapper {
+        padding: 0px 0px;
+    }
+    .d2c_portfolio_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .img-comp-container {
+        height: 300px;
+    }
+    .img-comp-img img {
+        width: 336px;
+        height: 300px;
+    }
+    .d2c_team_wrapper .d2c_section_header {
+        margin-bottom: 30px;
+    }
+    .d2c_team_wrapper .slick-prev {
+        top: -50px;
+        left: 90%;
+    }
+    .d2c_team_wrapper .slick-next {
+        top: -50px;
+    }
+    .d2c_team_wrapper .d2c_card_body {
+        padding: 0px 25px 25px 25px;
+    }
+    .d2c_testimonial_wrapper {
+        padding: 0px 0px;
+    }
+    .d2c_testimonial_body::after {
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_section_header {
+        margin-bottom: 30px;
+    }
+    .d2c_testimonial_wrapper ul {
+        margin-bottom: 30px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_content {
+        margin-bottom: 30px;
+    }
+    .d2c_c2a_box::after {
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_card::before {
+        left: -115px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_card::after {
+        right: -115px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_content {
+        font-size: 19px;
+    }
+    .d2c_contact_left_wrapper {
+        width: 100%;
+    }
+    .d2c_contact_left h2 {
+        font-size: 32px;
+    }
+    .d2c_contact_summary_wrapper {
+        margin: 24px 0px;
+    }
+    .d2c_contact_left {
+        padding: 40px;
+    }
+    .d2c_contact_wrapper .d2c_section_header {
+        margin-bottom: 20px;
+    }
+    .d2c_contact_summary_wrapper li {
+        margin-bottom: 24px;
+    }
+    .d2c_blog_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_blog_card p {
+        margin-bottom: 22px;
+    }
+    .d2c_blog_card .d2c_date {
+        margin-bottom: 12px;
+    }
+    .d2c_blog_card h4 {
+        margin-bottom: 16px;
+    }
+    .d2c_c2a_box {
+        padding: 40px;
+    }
+    .d2c_footer_wrapper .d2c_overlay {
+        padding: 60px 0px 0px;
+    }
+    .d2c_footer_menu ul li {
+        margin-bottom: 10px;
+    }
+    .d2c_footer_info_menu li {
+        margin-bottom: 22px;
+    }
+    .d2c_footer_menu ul li a {
+        font-size: 17px;
+    }
+    .d2c_footer_info_menu li {
+        font-size: 17px;
+    }
+    .d2c_hero_wrapper h1 span {
+        padding: 23px 8px 27px;
+    }
+    .video-container {
+        width: 100%;
+        height: 400px;
+    }
+    /* Home Page End */
+
+    /* About Page Start */
+    .d2c_facilities_wrapper .d2c_about_left_wrapper {
+        padding-left: 24px;
+    }
+    .d2c_choose_us_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_our_journey_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_our_journey_wrapper .nav {
+        margin-bottom: 50px;
+    }
+    /* About Page End */
+
+    /* Single Blog Page Start */
+    .d2c_single_blog_left .d2c_img_wrapper {
+        height: 350px;
+        margin-bottom: 30px;
+    }
+    .d2c_single_blog_left .d2c_disease_info {
+        margin-bottom: 30px;
+    }
+    .d2c_category_wrapper .d2c_btn {
+        font-size: 14px;
+        padding: 10px 14px 11px;
+    }
+    .d2c_single_blog_left .d2c_disease_info p {
+        font-size: 13px;
+    }
+    .d2c_support_wrapper {
+        padding: 40px 20px;
+    }
+    .d2c_support_wrapper h2 {
+        font-size: 26px;
+        margin-bottom: 28px;
+    }
+    .d2c_support_wrapper h4 {
+        font-size: 22px;
+    }
+    .d2c_support_wrapper hr {
+        margin: 0 auto 24px;
+    }
+    .d2c_support_wrapper h3 {
+        font-size: 25px;
+    }
+    .d2c_recent_post_wrapper .d2c_recent_post {
+        align-items: center;
+    }
+    /* Single Blog Page End */
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    /* Home Page Start */
+    section {
+        padding: 70px 0px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 17px;
+    }
+    .d2c_card {
+        padding: 30px 20px;
+    }
+    .d2c_hero_wrapper {
+        background-image: url(../images/bg_left_wave_img.png);
+    }
+    .d2c_hero_wrapper .d2c_img_wrapper {
+        height: 600px;
+    }
+    .d2c_hero_wrapper h1 {
+        font-size: 42px;
+        margin-bottom: 22px;
+    }
+    .d2c_about_wrapper {
+        background-image: none;
+    }
+    .d2c_about_left_wrapper::before {
+        display: none;
+    }
+    .d2c_about_left_wrapper::after {
+        display: none;
+    }
+    .d2c_about_wrapper .d2c_about_left_wrapper {
+        padding-right: 12px;
+    }
+    .d2c_about_left_wrapper .d2c_right_img {
+        display: none;
+    }
+    .d2c_about_left_wrapper .d2c_img_wrapper{
+        width: 100% !important;
+        height: auto !important;
+    }
+    .d2c_about_left_wrapper .d2c_img_wrapper {
+        width: 300px;
+        height: 420px;
+    }
+    .d2c_section_header h6 {
+        margin-bottom: 18px;
+    }
+    .d2c_section_header h2 {
+        font-size: 32px;
+    }
+    .d2c_about_right_wrapper .d2c_section_header {
+        margin-bottom: 16px;
+        padding-bottom: 11px; 
+    }
+    .d2c_about_right_wrapper p {
+        margin-bottom: 21px;
+    }
+    .d2c_services_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_card img {
+        margin-bottom: 24px;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_section_header {
+        margin-bottom: 19px;
+        padding-bottom: 15px;
+    }
+    .d2c_text {
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_section_header h6::after {
+        display: none;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_btn::before {
+        display: none;
+    }
+    .d2c_portfolio_wrapper .d2c_portfolio::before {
+        display: none;
+    }
+    .d2c_catchy_list li {
+        font-size: 17px;
+    }
+    .d2c_portfolio_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .img-comp-container {
+        height: 350px;
+    }
+    .img-comp-img img {
+        width: 455px;
+        height: 350px;
+    }
+    .d2c_team_wrapper .d2c_section_header {
+        margin-bottom: 30px;
+    }
+    .d2c_team_wrapper .slick-prev {
+        top: -50px;
+        left: 91%;
+    }
+    .d2c_team_wrapper .slick-next {
+        top: -50px;
+    }
+    .d2c_team_wrapper .d2c_card_body {
+        padding: 0px 25px 25px 25px;
+    }
+    .d2c_testimonial_body::after {
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_section_header {
+        margin-bottom: 30px;
+    }
+    .d2c_testimonial_wrapper ul {
+        margin-bottom: 30px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_content {
+        margin-bottom: 30px;
+    }
+    .d2c_c2a_box::after {
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_card::before {
+        left: -115px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_card::after {
+        right: -115px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_content {
+        font-size: 19px;
+    }
+    .d2c_contact_left_wrapper {
+        width: 100%;
+    }
+    .d2c_contact_left h2 {
+        font-size: 32px;
+    }
+    .d2c_contact_summary_wrapper {
+        margin: 24px 0px;
+    }
+    .d2c_contact_left {
+        padding: 40px;
+    }
+    .d2c_contact_wrapper .d2c_section_header {
+        margin-bottom: 20px;
+    }
+    .d2c_contact_summary_wrapper li {
+        margin-bottom: 24px;
+    }
+    .d2c_blog_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_c2a_box {
+        padding: 70px;
+    }
+    .d2c_footer_wrapper .d2c_overlay {
+        padding: 70px 0px 0px;
+    }
+    .d2c_footer_menu ul li {
+        margin-bottom: 10px;
+    }
+    .d2c_footer_info_menu li {
+        margin-bottom: 22px;
+    }
+    .d2c_footer_menu ul li a {
+        font-size: 17px;
+    }
+    .d2c_footer_info_menu li {
+        font-size: 17px;
+    }
+    .d2c_hero_wrapper h1 span {
+        padding: 25px 8px 29px;
+    }
+    .video-container {
+        width: 100%;
+        height: 450px;
+    }
+    /* Home Page End */
+
+    /* About Page Start */
+    .d2c_facilities_wrapper .d2c_about_left_wrapper {
+        padding-left: 24px;
+    }
+    .d2c_choose_us_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_our_journey_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_our_journey_wrapper .nav {
+        margin-bottom: 50px;
+    }
+    /* About Page End */
+
+    /* Single Blog Page Start */
+    .d2c_single_blog_left .d2c_img_wrapper {
+        height: 350px;
+        margin-bottom: 30px;
+    }
+    .d2c_single_blog_left .d2c_disease_info {
+        margin-bottom: 30px;
+    }
+    .d2c_category_wrapper .d2c_btn {
+        font-size: 14px;
+        padding: 10px 14px 11px;
+    }
+    .d2c_single_blog_left .d2c_disease_info p {
+        font-size: 13px;
+    }
+    .d2c_support_wrapper {
+        padding: 40px 20px;
+    }
+    .d2c_support_wrapper h2 {
+        font-size: 26px;
+        margin-bottom: 28px;
+    }
+    .d2c_support_wrapper h4 {
+        font-size: 22px;
+    }
+    .d2c_support_wrapper hr {
+        margin: 0 auto 24px;
+    }
+    .d2c_support_wrapper h3 {
+        font-size: 25px;
+    }
+    /* Single Blog Page End */
+}
+
+@media only screen and (min-width:1200px) and (max-width:1500px) {
+    /* Home Page Start */
+    section {
+        padding: 80px 0px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    .d2c_hero_wrapper {
+        background-image: url(../images/bg_left_wave_img.png);
+    }
+    .d2c_hero_wrapper .d2c_img_wrapper {
+        height: 565px;
+    }
+    .d2c_hero_wrapper h1 {
+        font-size: 52px;
+        margin-bottom: 35px;
+    }
+    .d2c_about_wrapper .d2c_about_left_wrapper {
+        padding-right: 12px;
+    }
+    .d2c_about_left_wrapper .d2c_img_wrapper {
+        width: 300px;
+        height: 420px;
+    }
+    .d2c_section_header h6 {
+        margin-bottom: 18px;
+    }
+    .d2c_section_header h2 {
+        font-size: 36px;
+    }
+    .d2c_about_right_wrapper .d2c_section_header {
+        margin-bottom: 16px;
+        padding-bottom: 11px; 
+    }
+    .d2c_about_right_wrapper p {
+        margin-bottom: 21px;
+    }
+    .d2c_services_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_card img {
+        margin-bottom: 24px;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_section_header {
+        margin-bottom: 19px;
+        padding-bottom: 15px;
+    }
+    .d2c_text {
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+    .d2c_tips_and_trike_wrapper .d2c_btn::before {
+        display: none;
+    }
+    .d2c_portfolio_wrapper .d2c_portfolio::before {
+        display: none;
+    }
+    .d2c_portfolio_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .img-comp-container {
+        height: 420px;
+    }
+    .img-comp-img img {
+        width: 545px;
+        height: 420px;
+    }
+    .d2c_team_wrapper .d2c_card_body {
+        padding: 0px 25px 25px 25px;
+    }
+    .d2c_testimonial_body::after {
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_section_header {
+        margin-bottom: 50px;
+    }
+    .d2c_c2a_box::after {
+        display: none;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_card::before {
+        left: -115px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_card::after {
+        right: -115px;
+    }
+    .d2c_testimonial_wrapper .d2c_testimonial_content {
+        font-size: 19px;
+    }
+    .d2c_contact_left_wrapper {
+        width: 100%;
+    }
+    .d2c_hero_wrapper h1 span {
+        padding: 29px 8px 36px;
+    }
+    /* Home Page End */
+
+    /* About Page Start */
+    .d2c_facilities_wrapper .d2c_about_left_wrapper {
+        padding-left: 24px;
+    }
+    
+    /* About Page End */
+
+    /* Single Blog Page Start */
+    .d2c_single_blog_left .d2c_img_wrapper {
+        height: 400px;
+        margin-bottom: 30px;
+    }
+    .d2c_single_blog_left .d2c_disease_info {
+        margin-bottom: 30px;
+    }
+    .d2c_category_wrapper .d2c_btn {
+        font-size: 14px;
+        padding: 10px 14px 11px;
+    }
+    /* Single Blog Page End */
+}
