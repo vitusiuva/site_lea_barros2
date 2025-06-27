@@ -90,7 +90,7 @@ h6 {
 
 h4 {
     font-size: 24px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     margin-bottom: 20px;
 }
 
@@ -330,6 +330,7 @@ p {
     font-size: 18px;
     font-family: var(--secondary_font);
     font-weight: 400;
+
 }
 
 .d2c_catchy_list li i {
@@ -521,7 +522,7 @@ body .d2c_mobile_view {
 .d2c_hero_wrapper h1 span {
     background: #EFECE8;
     border-radius: 6px;
-    border: 1px solid #5F421C;
+    /* border: 1px solid #5F421C; */
     display: inline-flex;
     padding: 32px 8px 40px;
     align-items: center;
@@ -645,6 +646,8 @@ body .d2c_mobile_view {
 
 
 /* Tips And Trike Section Start */
+
+
 .d2c_tips_and_trike_wrapper {
     background-image: url(../images/props_ten.png);
     background-position: center right;
@@ -1117,6 +1120,7 @@ body .d2c_mobile_view {
     left: -170px;
 }
 
+
 .d2c_counter_wrapper .d2c_counter {
     background: var(--primary_bg);
     border-radius: 6px;
@@ -1133,7 +1137,7 @@ body .d2c_mobile_view {
     color: var(--primary_color);
     font-family: var(--primary_font);
     font-weight: 700;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
 }
 
 /* Counter Section End */
@@ -1432,7 +1436,7 @@ body .d2c_mobile_view {
     font-size: 18px;
     font-family: var(--primary_font);
     font-weight: 700;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
 }
 
 .d2c_services_blog_wrapper .d2c_blog_btn:hover {
