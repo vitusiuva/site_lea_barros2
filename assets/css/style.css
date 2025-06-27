@@ -141,7 +141,7 @@ p {
     font-family: var(--primary_font);
     font-weight: 600;
     display: inline-block;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     background: var(--primary_color);
     border-radius: 6px;
     padding: 10px 34px 11px;
