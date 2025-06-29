@@ -214,6 +214,47 @@ p {
 
 /* Card Style End */
 
+/* Icone Whatsapp */
+
+.d2c_btn.d2c_btn_whatsapp {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 24px;
+  font-size: 22px; 
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.icone-whatsapp {
+  width: 26px;
+  height: 26px;
+  display: inline-block;
+  vertical-align: middle;
+  transition: opacity 0.3s ease;
+}
+
+
+.icone-normal {
+  filter: brightness(0) invert(1);
+}
+
+.icone-hover {
+  display: none;
+}
+
+/* No hover do botão, troca os ícones */
+.d2c_btn_whatsapp:hover .icone-normal {
+  display: none;
+}
+
+.d2c_btn_whatsapp:hover .icone-hover {
+  display: inline-block;
+}
+/* Icone Whatsapp End */
+
+
+
 /* Social Icon Style Start */
 .d2c_social_icon_wrapper li a {
     width: 28px;
@@ -567,6 +608,46 @@ body .d2c_mobile_view {
     bottom: -25px;
     left: -20px;
 }
+.d2c_hero_wrapper h1 {
+    color: var(--primary_color);
+    font-size: 44px;
+    font-family: var(--primary_font);
+    font-weight: 700;
+    text-transform: none;
+    margin-bottom: 40px;
+    line-height: 1.3;
+}
+
+.d2c_hero_wrapper h1 > div {
+    margin: 0;
+    padding: 0;
+}
+
+.d2c_hero_wrapper .hero-title {
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.d2c_hero_wrapper .hero-subtitle {
+    font-size: 20px;
+    font-weight: 500;
+    color: #5F421C;
+    background-color: #EFECE8;
+    padding: 4px 10px;
+    border-radius: 6px;
+    display: inline-block;
+    margin-top: 6px;
+}
+
+.d2c_hero_wrapper .hero-highlight {
+    font-size: 26px;
+    font-weight: 600;
+    color: var(--primary_color);
+    background-color: var(--primary_bg);
+    padding: 6px 12px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
 
 /* Hero Section End */
 
@@ -716,7 +797,7 @@ body .d2c_mobile_view {
 
 
 /* Testimonial Section Start */
-.d2c_testimonial_wrapper .d2c_section_header {
+/* .d2c_testimonial_wrapper .d2c_section_header {
     margin-bottom: 80px;
 }
 
@@ -776,7 +857,7 @@ body .d2c_mobile_view {
 
 .d2c_testimonial_wrapper .slick-slide {
     margin: 20px 12px;
-}
+} */
 
 /* Testimonial Section End */
 
